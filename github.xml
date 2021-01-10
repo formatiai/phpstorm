@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="e2d4a013-53fe-44cc-85b7-fc86f06a4e47" name="formatiai">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

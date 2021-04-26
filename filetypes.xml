@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern="*unisuplier.tpl" type="PHP" />
+      <mapping pattern="*unisync.tpl" type="PHP" />
       <removed_mapping ext="ctp" approved="true" type="PHP" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />

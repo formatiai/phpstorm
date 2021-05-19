@@ -73,6 +73,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="950aab58-d6c3-4423-8c25-9f740cf0a25a" name="dev9.format.ru.net" url="http://dev.format.ru.net">
+        <fileTransfer host="dev.format.ru.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

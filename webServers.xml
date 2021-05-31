@@ -89,6 +89,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="9e9e1d59-f71e-4b52-b09c-99184d334a0a" name="radiators.in.ua" url="http://radiators.in.ua">
+        <fileTransfer host="radiators.in.ua" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

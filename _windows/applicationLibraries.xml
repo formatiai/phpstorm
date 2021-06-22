@@ -3,6 +3,7 @@
     <library name="Jquery" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="" />
       </properties>
       <CLASSES>
         <root url="file://C:/openserver/OSPanel/domains/phpstorm-libs/jquery.min.js" />

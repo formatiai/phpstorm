@@ -8,7 +8,6 @@
       <mapping pattern="*unisync.tpl" type="PHP" />
       <mapping pattern="success.tpl" type="PHP" />
       <mapping pattern="product_form.tpl" type="PHP" />
-      <mapping pattern="product.tpl" type="PHP" />
       <mapping pattern="checkout.tpl" type="PHP" />
       <removed_mapping ext="ctp" approved="true" type="PHP" />
       <mapping ext="eot" type="PLAIN_TEXT" />
@@ -20,6 +19,7 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".tpl" approved="true" type="PHP" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="product.tpl" approved="true" type="PHP" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ctp" approved="true" type="PHP" />

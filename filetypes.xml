@@ -12,6 +12,8 @@
       <mapping ext="html" type="Smarty" />
       <removed_mapping pattern="*unisync.tpl" approved="true" type="PHP" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="product_form.tpl" approved="true" type="PHP" />
       <removed_mapping ext="tpl" approved="true" type="PHP" />
       <removed_mapping pattern="*unisuplier.tpl" approved="true" type="PHP" />
@@ -20,6 +22,7 @@
       <removed_mapping pattern=".tpl" approved="true" type="PHP" />
       <removed_mapping pattern="checkout.tpl" approved="true" type="PHP" />
       <removed_mapping pattern="product.tpl" approved="true" type="PHP" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ctp" approved="true" type="PHP" />

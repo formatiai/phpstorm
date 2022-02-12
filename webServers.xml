@@ -51,7 +51,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="08926c7c-b8e1-4360-a3db-aa995460080c" name="dev8.format.ru.net" url="http://dev8.format.ru.net">
-        <fileTransfer rootFolder="/dev8.format.ru.net" host="dev8.format.ru.net" port="21">
+        <fileTransfer host="dev8.format.ru.net" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

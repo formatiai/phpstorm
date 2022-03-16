@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="5a9697f8-b170-4340-ac70-9238fdee5d84" name="dev7.format.ru.net" url="http://dev7.format.ru.net">
-        <fileTransfer rootFolder="/dev7.format.ru.net" host="dev7.format.ru.net" port="21">
+        <fileTransfer host="dev7.format.ru.net" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

@@ -43,13 +43,6 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="c86707ea-6904-4308-acf0-e90a2934f6ff" name="dev2.format.ru.net" url="http://dev2.format.ru.net">
-        <fileTransfer host="dev2.format.ru.net" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="08926c7c-b8e1-4360-a3db-aa995460080c" name="dev8.format.ru.net" url="http://dev8.format.ru.net">
         <fileTransfer host="dev8.format.ru.net" port="21">
           <advancedOptions>

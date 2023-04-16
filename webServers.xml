@@ -85,6 +85,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="7edc3e37-48ae-4df4-b06a-4370242be55e" name="artaz.ru" url="http://artaz.ru">
+        <fileTransfer host="artaz.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

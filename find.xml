@@ -13,11 +13,11 @@
     <mask>*.module</mask>
     <mask>*.sass</mask>
     <mask>*.twig</mask>
-    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>ц</mask>
     <mask>*.xml</mask>
     <mask>*.tpl</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>

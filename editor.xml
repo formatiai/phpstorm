@@ -1,0 +1,17 @@
+<application>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Smarty" value="true" />
+      </map>
+    </option>
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern case-sensitive="true" pattern="\b(Todo|fixme)\b.*" />
+  </component>
+</application>

@@ -1,0 +1,97 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5a9697f8-b170-4340-ac70-9238fdee5d84" name="dev7.format.ru.net" url="http://dev7.format.ru.net">
+        <fileTransfer host="dev7.format.ru.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="bbde790d-ba1f-494e-a883-67873eac2945" name="dev6.format.ru.net" url="http://dev6.format.ru.net">
+        <fileTransfer host="dev6.format.ru.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="08d292d2-6d92-42ec-92fe-48260491dc49" name="dev.format.ru.net" url="https://dev.format.ru.net">
+        <fileTransfer host="dev.format.ru.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="ecbdadf3-388c-4763-a477-ca5544404823" name="dev4.format.ru.net" url="http://dev4.format.ru.net">
+        <fileTransfer rootFolder="/dev4.format.ru.net" host="dev4.format.ru.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="acb87b0a-4a0d-472d-b767-8c28d6fb0419" name="dev3.format.ru.net" url="https://dev3.format.ru.net">
+        <fileTransfer rootFolder="/dev3.format.ru.net" host="dev3.format.ru.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="4e499d58-a034-498a-b071-b7922aeccaab" name="dev5.format.ru.net" url="http://dev5.format.ru.net">
+        <fileTransfer host="dev5.format.ru.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="08926c7c-b8e1-4360-a3db-aa995460080c" name="dev8.format.ru.net" url="http://dev8.format.ru.net">
+        <fileTransfer host="dev8.format.ru.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="06d75f91-1c0a-4f32-9db9-490c3e7cdbf0" name="unifeed.dev5.format.ru.net" url="http://dev6.format.ru.net">
+        <fileTransfer rootFolder="/dev5.format.ru.net/unifeed" host="format.ru.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="950aab58-d6c3-4423-8c25-9f740cf0a25a" name="dev9.format.ru.net" url="http://dev9.format.ru.net">
+        <fileTransfer host="dev9.format.ru.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="5dcc8b5c-6082-44a6-b6a5-1d7a9c9a0157" name="dev11.format.ru.net" url="http://dev.format.ru.net">
+        <fileTransfer rootFolder="/dev11.format.ru.net" host="dev.format.ru.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="9e9e1d59-f71e-4b52-b09c-99184d334a0a" name="radiators.in.ua" url="http://radiators.in.ua">
+        <fileTransfer host="radiators.in.ua" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="bfe3fbe4-140c-4e50-9792-cfacc853156e" name="dev10.format.ru.net" url="https://dev10.format.ru.net">
+        <fileTransfer host="dev10.format.ru.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="7edc3e37-48ae-4df4-b06a-4370242be55e" name="artaz.ru" url="http://artaz.ru">
+        <fileTransfer host="artaz.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

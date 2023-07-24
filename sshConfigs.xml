@@ -1,0 +1,8 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="dev4.format.ru.net" id="919f87ea-2f46-4e8e-af89-c687f32c8193" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig authType="PASSWORD" host="cp.format.ru.net" id="fdb4ba7e-8449-4ebb-9f15-c59cd4e5c229" port="22" nameFormat="DESCRIPTIVE" username="root" />
+    </configs>
+  </component>
+</application>
